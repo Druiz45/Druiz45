@@ -1,5 +1,20 @@
 ## Hola, mi nombre es Diego Ruiz 👋
 
+## Perfil Profesional
+
+**Ingeniero de Sistemas | Especializado en Desarrollo Web**
+
+Experiencia en:
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Java
+- SQL
+- MySQL
+- Laravel
+
 <!--
 **Druiz45/Druiz45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
