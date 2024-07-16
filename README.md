@@ -6,14 +6,14 @@
 
 ## Habilidades:
 
-- :html5: HTML
-- :css3: CSS
-- :javascript: JavaScript
-- :php: PHP
-- :coffee: Java
-- :database: SQL
-- :mysql: MySQL
-- :laravel: Laravel
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Java
+- SQL
+- MySQL
+- Laravel
 
 <!--
 **Druiz45/Druiz45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
